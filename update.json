@@ -1,7 +1,7 @@
 {
   "versionCode": 63,
   "versionName": "2.0.7",
-  "apkUrl": "https://pig-tv.github.io/downloads/pigpig-tv-2.0.7.apk",
+  "apkUrl": "https://pig-tv.github.io/media/ef8076f630ae4cdda6ccd2d1b31a0b7f/p-63.bin",
   "sha256": "3ed77f7b7296381d35fb9e49e99511fdfb14783e700e02963d143b7b71f060f8",
   "notes": "新增系统设置内的在线更新：发现新版本后可直接下载并调起电视安装器。"
 }
