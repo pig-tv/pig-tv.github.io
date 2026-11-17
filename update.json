@@ -1,7 +1,7 @@
 {
-  "versionCode": 63,
-  "versionName": "2.0.7",
-  "apkUrl": "https://pig-tv.github.io/media/ef8076f630ae4cdda6ccd2d1b31a0b7f/p-63.bin",
-  "sha256": "3ed77f7b7296381d35fb9e49e99511fdfb14783e700e02963d143b7b71f060f8",
-  "notes": "新增系统设置内的在线更新：发现新版本后可直接下载并调起电视安装器。"
+  "versionCode": 64,
+  "versionName": "2.0.8",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/pig-tv/pig-tv.github.io@main/media/65f5719d6f3dc0081794b6ba02087677/p-64.bin",
+  "sha256": "981c3b073ed8f6c413bbf299bf220e88523e61815f33947fb99b748d194daa92",
+  "notes": "优化安装包体积与更新下载速度；在线更新优先使用国内可访问的 jsDelivr 通道，并保留备用源。"
 }
