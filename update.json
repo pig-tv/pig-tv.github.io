@@ -1,7 +1,7 @@
 {
-    "versionCode":  65,
-    "versionName":  "2.0.9",
-    "apkUrl":  "https://cdn.jsdelivr.net/gh/pig-tv/pig-tv.github.io@main/media/0569097c8b4e422f9948cfb042ac86d2/p-65.bin",
-    "sha256":  "efac7bfa08e3d10ff843d77cfe9d4f655feb48f439238bf4b88617c6d06e9aef",
-    "notes":  "安装包体积减少约 64%（17.4MB 缩减到 6.3MB），更新下载改为四路并发，升级更快、更省流量。"
+    "versionCode":  66,
+    "versionName":  "2.0.10",
+    "apkUrl":  "https://pig-tv.github.io/media/ef5a62f77fa247c7b62fc738e89e50d6/p-66.bin",
+    "sha256":  "fba9d4c3bf200d16656e2e12fe1e0ae0a3d006597f5d5ce44ec16ca21f95b646",
+    "notes":  "更新检测切换到更快的直连通道；安装包保持 6.3MB 精简体积，升级下载支持四路并发。"
 }
